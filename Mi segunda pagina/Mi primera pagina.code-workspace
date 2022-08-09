@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Mi primera pagina"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mi segunda pagina"
+	}
+}
